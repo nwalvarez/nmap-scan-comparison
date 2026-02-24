@@ -6,7 +6,9 @@ Comparative analysis of different Nmap scanning techniques focusing on execution
 
 ### Target
 
+``` bash
 scanme.nmap.org (Official Nmap Testing Host)
+```
 
 ## Methodology
 

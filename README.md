@@ -47,6 +47,9 @@ Focus:
 
 -  Basic service recognition
 
+The ‘filtered’ state indicates that the Nmap probes did not receive a response, likely due to firewall or packet filtering mechanisms blocking the connection attempts.
+
+
 ### 🇧🇷 Português
 
 O scan padrão do Nmap realiza uma varredura TCP SYN nas 1000 portas mais comuns.
@@ -61,6 +64,8 @@ Foco:
 -  Identificação de portas abertas
 
 -  Reconhecimento básico de serviços
+
+O estado ‘filtered’ indica que as tentativas de conexão não obtiveram resposta, provavelmente devido a mecanismos de firewall ou filtragem bloqueando os pacotes.
 
 ## Full Port Scan
 
